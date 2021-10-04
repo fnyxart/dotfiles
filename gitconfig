@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicoletafaina.contact@gmail.com
+	name = Nicoleta Faina
